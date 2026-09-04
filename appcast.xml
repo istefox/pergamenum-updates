@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Pergamenum</title>
+        <link>https://istefox.github.io/pergamenum-updates/appcast.xml</link>
+        <description>Aggiornamenti di Pergamenum</description>
+        <language>it</language>
+        <item>
+            <title>Pergamenum 1.1</title>
+            <pubDate>Fri, 04 Sep 2026 23:00:42 +0200</pubDate>
+            <sparkle:version>639</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/istefox/pergamenum-updates/releases/tag/v1.1-639</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/istefox/pergamenum-updates/releases/download/v1.1-639/Pergamenum-1.1-639.zip" sparkle:edSignature="RifXNhd7FVuyGGAC/nf3Zg991HdErjHXbjnchwUGCu0R7apFEnskyAZLdIrqTG/lUdKu1yVcpdd24yxQc/tgBA==" length="7838565" type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
