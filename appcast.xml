@@ -6,6 +6,15 @@
         <description>Aggiornamenti di Pergamenum</description>
         <language>it</language>
         <item>
+            <title>Pergamenum 1.4</title>
+            <pubDate>Fri, 11 Sep 2026 16:14:38 +0200</pubDate>
+            <sparkle:version>845</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/istefox/pergamenum-updates/releases/tag/v1.4-845</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/istefox/pergamenum-updates/releases/download/v1.4-845/Pergamenum-1.4-845.zip" sparkle:edSignature="xTAUy1mXARDCHOFP9iXYLTJiqbsOuGYbAEhKdYC9lsvmHfmjVer4FqDdwg9z1e6Yz69d4lk453xoN/Wemn7UDQ==" length="9716129" type="application/octet-stream" />
+        </item>
+        <item>
             <title>Pergamenum 1.3</title>
             <pubDate>Thu, 10 Sep 2026 09:08:16 +0200</pubDate>
             <sparkle:version>809</sparkle:version>
