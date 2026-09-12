@@ -7,6 +7,15 @@
         <language>it</language>
         <item>
             <title>Pergamenum 1.5</title>
+            <pubDate>Sat, 12 Sep 2026 20:02:14 +0200</pubDate>
+            <sparkle:version>909</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/istefox/pergamenum-updates/releases/tag/v1.5-909</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/istefox/pergamenum-updates/releases/download/v1.5-909/Pergamenum-1.5-909.zip" sparkle:edSignature="Juw2PArGj96jFtCNLtukMIr532KQ6Ws8Z8SGwvlMMoUmeXTHYb6qYiweiqqT0ZtzF6jkdpHnY5dzGKFcJkKaBw==" length="9762552" type="application/octet-stream" />
+        </item>
+        <item>
+            <title>Pergamenum 1.5</title>
             <pubDate>Sat, 12 Sep 2026 16:41:56 +0200</pubDate>
             <sparkle:version>907</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
